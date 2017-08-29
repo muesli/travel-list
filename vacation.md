@@ -9,6 +9,7 @@ Vacation Checklist
 - [ ] Wifi Repeater
 - [ ] Extension lead
 - [ ] Keyboard
+- [ ] Plush Gopher
 
 ## Backpack
 
