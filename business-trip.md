@@ -8,6 +8,7 @@ Business Trip Checklist
 - [ ] Headphones
 - [ ] Powerbanks
 - [ ] LTE stick
+- [ ] USB charger
 - [ ] USB cables
 - [ ] USB sticks
 - [ ] SD cards

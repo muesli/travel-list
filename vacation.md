@@ -12,10 +12,13 @@ Vacation Checklist
 
 ## Backpack
 
+- [ ] Passport
 - [ ] Notebook
+- [ ] External hard disk
 - [ ] Headphones
 - [ ] Powerbanks
 - [ ] LTE stick
+- [ ] USB charger
 - [ ] USB cables
 - [ ] USB sticks
 - [ ] SD cards
@@ -25,5 +28,6 @@ Vacation Checklist
 - [ ] HDMI cable
 - [ ] Mouse
 - [ ] Bluetooth Speaker
+- [ ] Raspberry Pi
 - [ ] Batteries
 - [ ] Cloth
