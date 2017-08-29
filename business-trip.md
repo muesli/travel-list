@@ -1,5 +1,5 @@
-Vacation Checklist
-==================
+Business Trip Checklist
+=======================
 
 ## Backpack
 
